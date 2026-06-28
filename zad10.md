@@ -9,6 +9,9 @@
 
 <img width="1597" height="944" alt="image" src="https://github.com/user-attachments/assets/4f03abd6-e24f-4599-84c3-5a8f8f82acee" />
 <img width="1599" height="941" alt="image" src="https://github.com/user-attachments/assets/cb53ed3a-de66-4487-a7a0-7a2710068f17" />
+
+> datetrunc([order_purchase_timestamp], "month") - Формула для оси X
+
 <img width="1602" height="957" alt="image" src="https://github.com/user-attachments/assets/99fe69f5-ca5a-42fb-aa78-2923679e41d8" />
 
 >Формула для создания "Дней на сборку" `floor([order_delivered_carrier_date] - [order_purchase_timestamp])`
