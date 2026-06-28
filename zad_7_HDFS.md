@@ -32,4 +32,4 @@ print(f"Количество активных записей: {row_count}")
 
 # 4. СОХРАНЕНИЕ РЕЗУЛЬТАТА (Действие записи обратно в HDFS)
 filtered_df.write.mode("overwrite").csv("hdfs:///user/hadoop/analytics/output_result", header=True)
-```python
+```
