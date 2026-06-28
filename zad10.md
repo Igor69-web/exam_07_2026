@@ -8,6 +8,9 @@
 ## Создание чартов
 
 <img width="1597" height="944" alt="image" src="https://github.com/user-attachments/assets/4f03abd6-e24f-4599-84c3-5a8f8f82acee" />
+
+> Для оси X и Y я брал `агрегацию` - среднее
+
 <img width="1599" height="941" alt="image" src="https://github.com/user-attachments/assets/cb53ed3a-de66-4487-a7a0-7a2710068f17" />
 
 > datetrunc([order_purchase_timestamp], "month") - Формула для оси X
